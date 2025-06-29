@@ -24,9 +24,9 @@ Não tenho o deploy dessa API, mas para facilitar, deixei o Front end no deploy,
 https://full-stack-authentication-login-sen-theta.vercel.app/login
 
 
+Como rodar:
 
 Front end:
-Como rodar:
 Clone esse repositorio na sua maquina:
 git clone https://github.com/ElevirJJ/FullStack_authentication_login_senha.git
 instale as dependecias:
@@ -34,8 +34,9 @@ npm install
 Rode a aplicação:
 npm run dev
 
-Back end:
 Como rodar:
+
+Back end:
 Clone esse repositorio na sua maquina:
 git clone https://github.com/ElevirJJ/Sistema_Financeiro.git
 Altere a senha e configure o banco de dados
